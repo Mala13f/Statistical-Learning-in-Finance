@@ -7,4 +7,4 @@ In detail:
     Assignment 1: Loan Prediction Model: Methodology, Analysis, and Evaluation.
     Assignement 2: Loan Default and Return Prediction using Linear Models.
     Assignement 3: Loan Default and Return Prediction using Nonlinear Models
-    Final Project
+    Final Project: Design, implement, and evaluate sta8s8cal learning models to predict stock-level risk premiums
